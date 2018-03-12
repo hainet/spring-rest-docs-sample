@@ -1,0 +1,28 @@
+|===
+|Path|Type|Description
+
+|`id`
+|`Number`
+|The id of this credit card. e.g. 1
+
+|`number`
+|`String`
+|The number of this credit card. e.g. 1234-5678-9012-3456
+
+|`holder`
+|`String`
+|The holder of this credit card.  e.g. HAINE TAKANO
+
+|`goodThru`
+|`String`
+|The goodthru of this credit card. e.g. 2020/12
+
+|`securityCode`
+|`String`
+|The security code of this credit card. e.g. 123
+
+|`securePassword`
+|`String`
+|The secure password of this credit card. e.g. 12345
+
+|===

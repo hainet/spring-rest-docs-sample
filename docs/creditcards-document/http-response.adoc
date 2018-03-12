@@ -1,0 +1,8 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 130
+
+{"id":1,"number":"1234-5678-9012-3456","holder":"HAINE TAKANO","goodThru":"2020/12","securityCode":"123","securePassword":"12345"}
+----
